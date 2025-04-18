@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+There once was a girl who played sports
 
-Maybe say a some things about yourself.
+If you consider swimming a sport, of sorts
 
-Or maybe what you plan to blog about.
+She still swims quite hard
+
+But not as many yards
+
+As she did when she really played sports
