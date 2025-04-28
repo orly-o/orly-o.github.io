@@ -41,4 +41,58 @@ I wanted to review this step by step because the joke about data science being 8
 It’s more like 90/10. I have the data! And I can’t use it! 
 Let’s see what we can do.
 
+Here is a snippet of the first page of the psych sheets:
+
+![Pysch Sheets](_images/Picture1.png)
+
+There is somewhat of a structure and columns, but one thing missing is the event. 
+I see it at the beginning of each event, but I will need to create a new column for each event so I know which event the entries belong to.
+
+There is also a split between qualified and invited athletes per event. 
+Athletes have to qualify for championships based on standards set using results from the previous year.  
+There are also types of qualifications: A and B. I’ll come back to it.
+
+To get this data into a dataframe, I first looked into scripts that could scrape a pdf. 
+There is some good stuff out there, but truthfully, I wanted to try copying and pasting it first. 
+I knew this might come with some manual work, but hey, that’s the best way to get to know the data! 
+
+Here is a snippet of the original copy and paste from the pdf into Microsoft Excel:
+
+![Excel Paste](_images/Picture2.png)
+
+I also tried saving it as a txt file, and then using code to separate by delimiters:
+
+![TXT File](_images/Picture3.png)
+
+I attempted this way, but since there were so many nuances that were not systematic, it made more sense to stick with the Excel paste.
+
+Now comes the fun part!!
+
+There were a few things that had to be taken care of.
+
+1. Long names, causing multiple rows for one entry (most names and information are on one row – here, the name and information is broken up, and has to be brought back together)
+
+![Long Names](_images/Picture4.png)
+
+2. Adding Invited and Event columns (whether a swimmers qualified or was invited is noted here but has to be noted manually to create that as a categorical variable; the event is also only at the start of the entries for each one, so I have to add it on my own)
+
+![New Fields](_images/Picture5.png)
+
+3. Delimiter separation by space, tracking school names (the second picture here is the split version of the first picture by the space – for schools with one name, that is fine, but some schools have two names, like NC State, it also gets split and has to be brought back together)
+
+![Original](_images/Picture6.png)
+
+![Delimiter Split](_images/Picture7.png)
+
+With some more twirls of the wand and a few breaks for snacks (okay fine, chocolate), I had myself a dataframe!! 
+For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python.
+
+This first post was the intro to how this process looks from scratch. 
+If you are into things like how many gold medals the US has ever won at the Olympics, or how many yards the Steelers offense ran last season, or how many points Michael Jordan scored from the foul line in the playoffs over the years, your data is easily accessible. 
+If you are a swim stat nerd trying to do some analytics, your data is based on how much work you are going to put in to find it and clean it, or who you might know with access to more data. 
+I’m excited to meet more people out there who are hungry for swimming data, whether at the NCAA level or otherwise. 
+And I’m excited to share my code and insights with you! 
+
+Welcome to From the Blocks!!
+
 
