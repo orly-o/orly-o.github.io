@@ -1,4 +1,4 @@
-## Welcome to From the Lap!!
+## Welcome to By the Lap!!
 
 *"I want to change the sport of swimming. I want people to talk about it, think about it, and look forward to seeing it."  
 – Michael Phelps*
