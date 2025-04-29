@@ -48,7 +48,7 @@ Let’s see what we can do.
 
 Here is a snippet of the first page of the psych sheets:
 
-![Pysch Sheets](images/Picture1.png)
+![Pysch Sheets](orly-o.github.io/_posts/images/Picture1.png)
 
 There is somewhat of a structure and columns, but one thing missing is the event. 
 I see it at the beginning of each event, but I will need to create a new column for each event so I know which event the entries belong to.
