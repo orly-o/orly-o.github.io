@@ -29,6 +29,8 @@ What to expect:
 + Code snippets
 + Swim headlines of my own (fueled by data!)
 
+This is not my first rodeo - in 2022 I was honored to be a speaker at a [Pittsburgh Nerd Nite](https://pittsburgh.nerdnite.com/) event, where I spoke about records broken before and after the tech suit ban. You can enjoy [here](https://www.youtube.com/watch?v=2kE2m0BL1xA).
+
 What’s the first topic!!
 
 It was March Madness recently, and of course I am referring to NCAA swimming championships and not basketball. 
