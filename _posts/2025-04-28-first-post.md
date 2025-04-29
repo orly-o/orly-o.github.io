@@ -52,7 +52,7 @@ Let’s see what we can do.
 
 Here is a snippet of the first page of the psych sheets:
 
-![Pysch Sheets](/images/Picture1.png)
+![Pysch Sheets](/images/BLOG1A.png)
 
 There is somewhat of a structure and columns, but one thing missing is the event. 
 I see it at the beginning of each event, but I will need to create a new column so I know which event the entries belong to.
@@ -67,11 +67,11 @@ I knew this might come with some manual work, but hey, that’s the best way to 
 
 Here is a snippet of the original copy and paste from the pdf into Microsoft Excel:
 
-![Excel Paste](/images/Picture2.png)
+![Excel Paste](/images/BLOG1B.png)
 
 I also tried saving it as a txt file, and then using code to separate by delimiters:
 
-![TXT File](/images/Picture3.png)
+![TXT File](/images/BLOG1C.png)
 
 I attempted this way, but since there were so many nuances that were not consistent, it made more sense to stick with the Excel paste.
 
@@ -81,15 +81,15 @@ There were a few things that had to be taken care of.
 
 1. Long names, causing multiple rows for one entry (most names and information are on one row – here, the name and information is broken up, and has to be brought back together)
 
-![Long Names](/images/Picture4.png)
+![Long Names](/images/BLOG1D.png)
 
 2. Adding Invited and Event columns (whether a swimmer qualified or was invited is noted here but has to be noted manually to create that as a categorical variable; the event is also only at the start of the entries for each one, so I have to add it on my own)
 
-![New Fields](/images/Picture5.png)
+![New Fields](/images/BLOG1E.png)
 
 3. Delimiter separation by space, tracking school names (the second two lines here are the split version of the first two lines by the space – for schools with one name, that is fine, but some schools have two names, like NC State, it also gets split and has to be brought back together - you can see the information ends up in different columns)
 
-![Delimiter Challenge](/images/Picture6.png)
+![Delimiter Challenge](/images/BLOG1F.png)
 
 With some more twirls of the wand and a few breaks for snacks (okay fine, chocolate), I had myself a dataframe!! 
 For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python (and don't forget pandas!).
