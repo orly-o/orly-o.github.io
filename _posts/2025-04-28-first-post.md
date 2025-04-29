@@ -83,7 +83,7 @@ There were a few things that had to be taken care of.
 
 ![Long Names](/images/Picture4.png)
 
-2. Adding Invited and Event columns (whether a swimmers qualified or was invited is noted here but has to be noted manually to create that as a categorical variable; the event is also only at the start of the entries for each one, so I have to add it on my own)
+2. Adding Invited and Event columns (whether a swimmer qualified or was invited is noted here but has to be noted manually to create that as a categorical variable; the event is also only at the start of the entries for each one, so I have to add it on my own)
 
 ![New Fields](/images/Picture5.png)
 
