@@ -1,1 +1,8 @@
 ﻿_site
+
+# R extensions
+*.RData
+*.Rhistory
+
+# Mac
+*.DS_Store
