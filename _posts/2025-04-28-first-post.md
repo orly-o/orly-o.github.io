@@ -110,4 +110,3 @@ I’m excited to meet more people out there who are hungry for swimming data, wh
 And I’m excited to share my code and insights with you! 
 
 Welcome to From the Blocks!!
-
