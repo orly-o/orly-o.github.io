@@ -43,7 +43,7 @@ Let’s see what we can do.
 
 Here is a snippet of the first page of the psych sheets:
 
-![Pysch Sheets](_images/Picture1.png)
+![Pysch Sheets](images/Picture1.png)
 
 There is somewhat of a structure and columns, but one thing missing is the event. 
 I see it at the beginning of each event, but I will need to create a new column for each event so I know which event the entries belong to.
@@ -58,11 +58,11 @@ I knew this might come with some manual work, but hey, that’s the best way to 
 
 Here is a snippet of the original copy and paste from the pdf into Microsoft Excel:
 
-![Excel Paste](_images/Picture2.png)
+![Excel Paste](images/Picture2.png)
 
 I also tried saving it as a txt file, and then using code to separate by delimiters:
 
-![TXT File](_images/Picture3.png)
+![TXT File](images/Picture3.png)
 
 I attempted this way, but since there were so many nuances that were not systematic, it made more sense to stick with the Excel paste.
 
@@ -72,17 +72,17 @@ There were a few things that had to be taken care of.
 
 1. Long names, causing multiple rows for one entry (most names and information are on one row – here, the name and information is broken up, and has to be brought back together)
 
-![Long Names](_images/Picture4.png)
+![Long Names](images/Picture4.png)
 
 2. Adding Invited and Event columns (whether a swimmers qualified or was invited is noted here but has to be noted manually to create that as a categorical variable; the event is also only at the start of the entries for each one, so I have to add it on my own)
 
-![New Fields](_images/Picture5.png)
+![New Fields](images/Picture5.png)
 
 3. Delimiter separation by space, tracking school names (the second picture here is the split version of the first picture by the space – for schools with one name, that is fine, but some schools have two names, like NC State, it also gets split and has to be brought back together)
 
-![Original](_images/Picture6.png)
+![Original](images/Picture6.png)
 
-![Delimiter Split](_images/Picture7.png)
+![Delimiter Split](images/Picture7.png)
 
 With some more twirls of the wand and a few breaks for snacks (okay fine, chocolate), I had myself a dataframe!! 
 For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python.
