@@ -33,7 +33,7 @@ This is not my first rodeo - in 2022 I was honored to be a speaker at a [Pittsbu
 
 What’s the first topic!!
 
-It was March Madness recently, and of course I am referring to NCAA swimming championships and not basketball. 
+It was March Madness recently, and of course I am referring to [NCAA swimming](https://www.ncaa.com/sports/swimming-women/d1) championships and not basketball.  
 Land sports are stupid.
 
 I wanted to look at the qualifiers for the women’s championship meet and go from there. 
