@@ -42,7 +42,7 @@ Follow-up questions using results will be qualifiers by school vs. medalists, hi
 Men’s champs will come later. 
 The first night was wild – with three DQs in the first relay! 
 Florida blowing an early lead against Texas! 
-This of course led to some questions about relay DQs in the past… another great topic we’ll get to.
+This of course led to some questions about relay DQs in the past… another great topic I’ll get to.
 
 The challenge in swimming analytics is that, unlike for basketball and football, data is not always readily accessible or in a usable format. 
 For qualifiers for the NCAA championships, I have the pdf, and it took some finagling to get the data into a dataframe. 
