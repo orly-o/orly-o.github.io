@@ -87,7 +87,7 @@ There were a few things that had to be taken care of.
 
 ![New Fields](/images/Picture5.png)
 
-3. Delimiter separation by space, tracking school names (the second picture here is the split version of the first picture by the space – for schools with one name, that is fine, but some schools have two names, like NC State, it also gets split and has to be brought back together)
+3. Delimiter separation by space, tracking school names (the second two lines here are the split version of the first two lines by the space – for schools with one name, that is fine, but some schools have two names, like NC State, it also gets split and has to be brought back together - you can see the information ends up in different columns)
 
 ![Delimiter Challenge](/images/Picture6.png)
 
