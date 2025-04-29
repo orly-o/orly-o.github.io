@@ -14,7 +14,12 @@ My main goals for this blog are:
 + Create a public repository to show my code and data analysis approach
 + Have some fun with swim data using what I've learned in my statistics studies and my job experience
 
-!!!! note **"The Dream:"** Be a part of making swim data more accessible and promote analytics to support swimming improvement.
+!!!! note **"The Dream:"** 
+Be a part of making swim data more accessible and promote analytics to support swimming improvement.
+
+!!! note "The Dream"
+
+    Be a part of making swim data more accessible and promote analytics to support swimming improvement.
 
 My background in statistics combined with my job experience since finishing school serve as the baseline for my data analysis approach. 
 It continues to evolve, and I continue to learn more as I branch out. 
