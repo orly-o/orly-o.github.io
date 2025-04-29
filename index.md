@@ -1,9 +1,7 @@
-There once was a girl who played sports
+I've been a swimmer my whole life, and I've loved numbers my whole life. I turned the numbers part into a career by studying Applied Statistics at Penn State, and later at Pitt for my master's degree. I've worked in cost analysis, federal consulting, and fintech, all the while cultivating and maintaining my data analytics approach. More importantly, I am still a competitive swimmer, and I am excited to combine my data approach with my goal of making swimming data more accessible.  
 
-If you consider swimming a sport, of sorts
+This blog is for me to have fun, get my code out into the world, and build connections with others in this space.  
 
-She still swims quite hard
+If you are so inclined, feel free to reach out with ideas or questions you think might be fun to answer using swimming data!
 
-But not as many yards
-
-As she did when she really played sports
+Enjoy!
