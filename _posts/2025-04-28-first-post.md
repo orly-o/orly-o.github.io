@@ -6,9 +6,14 @@
 Hello!
 
 Welcome to **By the Lap**: Orly’s swim stat blog. 
-I’m a competitive master’s swimmer with an (un)healthy obsession with NCAA and professional swim ming. 
-By day I am a data scientist, and I decided to combine my love for coding and my love for swimming. 
-Voila! Swim statistics blog.
+I’m a competitive master’s swimmer with an (un)healthy obsession with NCAA and professional swimming. 
+By day I work with data as an analyst, and I wanted to start bringing this love together with my love for swimming. 
+Voila! Swim statistics blog.  
+
+My main goals for this blog are:  
++ Create a public repository to show my code and data analysis approach
++ Have some fun with swim data using what I've learned in my statistics studies and my job experience
++ The **dream** is to be a part of making swim data more accessible and promoting analytics to support swimming improvement
 
 My background in statistics combined with my job experience since finishing school serve as the baseline for my data analysis approach. 
 It continues to evolve, and I continue to learn more as I branch out. 
