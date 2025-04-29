@@ -53,7 +53,7 @@ Here is a snippet of the first page of the psych sheets:
 ![Pysch Sheets](/images/Picture1.png)
 
 There is somewhat of a structure and columns, but one thing missing is the event. 
-I see it at the beginning of each event, but I will need to create a new column for each event so I know which event the entries belong to.
+I see it at the beginning of each event, but I will need to create a new column so I know which event the entries belong to.
 
 There is also a split between qualified and invited athletes per event. 
 Athletes have to qualify for championships based on standards set using results from the previous year.  
