@@ -92,10 +92,13 @@ There were a few things that had to be taken care of.
 ![Delimiter Split](/images/Picture7.png)
 
 With some more twirls of the wand and a few breaks for snacks (okay fine, chocolate), I had myself a dataframe!! 
-For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python.
+For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python (and don't forget pandas!).
 
 ```{python}
+# libraries
 import pandas as pd
+
+# data load
 wncaa = pd.read_csv('Data/NCAA 25 Psych Sheets.csv')
 ```
 
