@@ -87,9 +87,7 @@ There were a few things that had to be taken care of.
 
 3. Delimiter separation by space, tracking school names (the second picture here is the split version of the first picture by the space – for schools with one name, that is fine, but some schools have two names, like NC State, it also gets split and has to be brought back together)
 
-![Original](/images/Picture6.png)
-
-![Delimiter Split](/images/Picture7.png)
+![Delimiter Challenge](/images/Picture6.png)
 
 With some more twirls of the wand and a few breaks for snacks (okay fine, chocolate), I had myself a dataframe!! 
 For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python (and don't forget pandas!).
