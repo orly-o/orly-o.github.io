@@ -102,9 +102,10 @@ import pandas as pd
 wncaa = pd.read_csv('Data/NCAA 25 Psych Sheets.csv')
 ```
 
-This first post was the intro to how this process looks from scratch. 
+This first post is the intro to how this process looks from scratch. 
 If you are into things like how many gold medals the US has ever won at the Olympics, or how many yards the Steelers offense ran last season, or how many points Michael Jordan scored from the foul line in the playoffs over the years, your data is easily accessible. 
-If you are a swim stat nerd trying to do some analytics, your data is based on how much work you are going to put in to find it and clean it, or who you might know with access to more data. 
+If you are a swim stat nerd trying to do some analytics, your data is based on how much work you are going to put in to find it and clean it, or who you might know with access to more data.  
+
 I’m excited to meet more people out there who are hungry for swimming data, whether at the NCAA level or otherwise. 
 And I’m excited to share my code and insights with you! 
 
