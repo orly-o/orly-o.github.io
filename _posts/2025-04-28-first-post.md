@@ -1,11 +1,11 @@
-## Welcome to By the Lap!!
+## Welcome to From the Blocks!!
 
 *"I want to change the sport of swimming. I want people to talk about it, think about it, and look forward to seeing it."  
 – Michael Phelps*
 
 Hello!
 
-Welcome to **By the Lap**: Orly’s swim stat blog. 
+Welcome to **From the Blocks**: Orly’s swim stat blog. 
 I’m a competitive master’s swimmer with an (un)healthy obsession with NCAA and professional swimming. 
 By day I work with data as an analyst, and I wanted to start bringing this love together with my love for swimming. 
 Voila! Swim statistics blog.  
