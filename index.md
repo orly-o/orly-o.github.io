@@ -2,6 +2,6 @@ I've been a swimmer my whole life, and I've loved numbers my whole life. I turne
 
 This blog is for me to have fun, get my code out into the world, and build connections with others in this space.  
 
-If you are so inclined, feel free to reach out with ideas or questions you think might be fun to answer using swimming data!
+If you are so inclined, feel free to reach out with ideas or questions you think might be fun to answer using swimming data (see my blog email address below).
 
 Enjoy!
