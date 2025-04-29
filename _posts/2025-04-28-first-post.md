@@ -73,7 +73,7 @@ I also tried saving it as a txt file, and then using code to separate by delimit
 
 ![TXT File](/images/Picture3.png)
 
-I attempted this way, but since there were so many nuances that were not systematic, it made more sense to stick with the Excel paste.
+I attempted this way, but since there were so many nuances that were not consistent, it made more sense to stick with the Excel paste.
 
 Now comes the fun part!!
 
