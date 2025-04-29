@@ -94,10 +94,10 @@ There were a few things that had to be taken care of.
 With some more twirls of the wand and a few breaks for snacks (okay fine, chocolate), I had myself a dataframe!! 
 For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python.
 
-{python}'''
+```{python}
 import pandas as pd
 wncaa = pd.read_csv('Data/NCAA 25 Psych Sheets.csv')
-'''
+```
 
 This first post was the intro to how this process looks from scratch. 
 If you are into things like how many gold medals the US has ever won at the Olympics, or how many yards the Steelers offense ran last season, or how many points Michael Jordan scored from the foul line in the playoffs over the years, your data is easily accessible. 
