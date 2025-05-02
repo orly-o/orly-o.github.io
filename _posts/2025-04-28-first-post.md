@@ -81,15 +81,15 @@ There were a few things that had to be taken care of.
 
 1. Long names, causing multiple rows for one entry (most names and information are on one row – here, the name and information is broken up, and has to be brought back together)
 
-![Long Names](/images/BLOG1D.png)
+    ![Long Names](/images/BLOG1D.png)
 
 2. Adding Invited and Event columns (whether a swimmer qualified or was invited is noted here but has to be noted manually to create that as a categorical variable; the event is also only at the start of the entries for each one, so I have to add it on my own)
 
-![New Fields](/images/BLOG1E.png)
+    ![New Fields](/images/BLOG1E.png)
 
 3. Delimiter separation by space, tracking school names (the second two lines here are the split version of the first two lines by the space – for schools with one name, that is fine, but some schools have two names, like NC State, it also gets split and has to be brought back together - you can see the information ends up in different columns)
 
-![Delimiter Challenge](/images/BLOG1F.png)
+    ![Delimiter Challenge](/images/BLOG1F.png)
 
 With some more twirls of the wand and a few breaks for snacks (okay fine, chocolate), I had myself a dataframe!! 
 For my code friends out there, I changed my final Excel sheet into a csv first and then loaded it into python (and don't forget pandas!).
